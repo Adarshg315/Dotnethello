@@ -1,0 +1,16 @@
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp.deps.json
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.json
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.dev.json
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp.dll
+/home/adarsh/MyApp/bin/Debug/net5.0/ref/MyApp.dll
+/home/adarsh/MyApp/bin/Debug/net5.0/MyApp.pdb
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.csprojAssemblyReference.cache
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfoInputs.cache
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfo.cs
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.csproj.CoreCompileInputs.cache
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.dll
+/home/adarsh/MyApp/obj/Debug/net5.0/ref/MyApp.dll
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.pdb
+/home/adarsh/MyApp/obj/Debug/net5.0/MyApp.genruntimeconfig.cache
